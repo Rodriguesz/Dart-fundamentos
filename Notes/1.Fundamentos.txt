@@ -1,0 +1,4 @@
+AULA 3: Conceitos importantes
+
+Em dart, tudo são classes (ex: int, num, null...);
+Variaveis e funções globais em dart são variaveis e funções de nível superior;

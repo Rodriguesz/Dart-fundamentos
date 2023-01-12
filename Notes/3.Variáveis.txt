@@ -1,0 +1,22 @@
+AULA 1: Variaveis e Tipos
+
+Variavel: espaço na memória em q armazenamos algum valor (numéricos, textos ou bool(verdadeiro ou falso))
+
+valores inteiros: 1, 2, 3, 4...
+valores decimais: 1.2, 1.4, 4.3...
+
+Função main: É a função de start da aplicação
+
+Todo tipo numérico (float, int...) herda de "num", então o num pode ser utilizado para numeros decimais ou inteiros
+
+Pode se utilizar o var quando vc irá informar o valor da variavel logo em seguida
+
+Todo mundo é filho de object, portanto o object pode ser qualquer coisa (evitar usar)
+
+dynamic também pode ser qualquer coisa e pode alterar seu tipo durante a execução (evitar usar)
+-------------------------------------------------------------------------------------------------------------------------------
+
+AULA 2: Null safety
+
+
+Ajuda a prevenir váriaveis nulas.

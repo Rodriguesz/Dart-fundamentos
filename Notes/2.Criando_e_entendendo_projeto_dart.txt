@@ -1,0 +1,33 @@
+AULA 1: Criando projeto pelo console
+
+vá até a pasta como o comando       cd;
+
+dart create     para ver as opções de criação;
+
+dart create -t console-full dart_fundamentos       irá criar uma pasta chamada dart_fundamentos com o projeto dentro do diretorio que vc está
+
+---------------------------------------------------------------------
+
+AULA 2: Criando projeto pelo vscode
+
+ctrl+shift+p -> dart:new project
+
+---------------------------------------------------------------------
+
+AULA 3: Entendendo a estrutura do projeto
+
+Pasta bin: Contem o arquivo de start, o principal arquivo que irá iniciar a aplicação
+
+Pasta lib: Arquivos em que a aplicação será construidat
+
+Pasta test: Arquivos de teste
+
+.gitignore: arquivos e pastas que serão ignorados pelo git
+
+changelog.md: arquivos para informar o que mudou em determinada versão do seu projeto
+
+pubspec.lock: Não mexer
+
+pubspec.yaml: Descritor do projeto, variaveis de ambiente, depencencias do projeto de depencencias de desenvolvimento
+
+README.md: Informações sobre o projeto

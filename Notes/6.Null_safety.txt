@@ -1,0 +1,11 @@
+AULA 1: Null Aware Operator
+
+String? 'nomeVariavel'           A ? significa q a variavel pode ser nula.
+
+para utilizar uma variavel q pode ser nula, deve-se realizar uma verificação antes ou atribuir um valor a ela
+
+A verificação não funciona para variaveis de nível superior. Deve se criar uma variavel local e atribuir a ela o valor da variavel de nivel superior
+
+nomeSuperior!.isEmpty;           O ! significa q vc garante q a variavel não vai ser nula
+
+??                               Operador OU

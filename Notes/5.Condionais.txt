@@ -1,0 +1,23 @@
+AULA 1: Operadores relacioanis e ifs
+
+operadores relacioanis: > (maior que), < (menor que), ==(igual), != (deferente), <= (menor igual que), >= (maior igual que)
+
+If e else: faz um teste para ver se a condição é verdadeira ou falsa. Se for verdadeira, faça algo, se não (else), faça outra. 
+--------------------------------------------------------------------------
+
+AULA 2: Operadores lógicos
+
+operadores lógicos: && (e), || (ou), ! (not: inverte a operação)
+---------------------------------------------------------------------------
+
+AULA 3: Ternários
+
+é um if simplificado
+
+(condicao) é verdadeira ? se sim, faça algo : se não faça outra coisa;
+---------------------------------------------------------------------------
+
+AULA 4: Switchs
+
+interessante para fazer várias checagens 
+

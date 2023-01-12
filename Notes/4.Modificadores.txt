@@ -1,0 +1,7 @@
+AULA 1: Modificadores final e const
+
+São uma forma forma de alterar a forma que a variavel é criada
+
+final: a variavel não pode ser alterada depois de criada
+
+const: faz a mesma coisa q final. A diferença é q ela deve estar com os dados setados em momento de compilação
