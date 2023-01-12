@@ -1,7 +1,6 @@
 # Files and directories created by pub.
 .dart_tool/
 .packages
-.gitignore
 analysis_options.yaml
 # Conventional directory for build output.
 build/
